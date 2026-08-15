@@ -6,4 +6,3 @@ gensim
 scikit-learn
 nltk
 SpeechRecognition
-PyAudio
