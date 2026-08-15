@@ -1,8 +1,8 @@
-streamlit
-tensorflow
-keras
-numpy
-gensim
-scikit-learn
-nltk
-SpeechRecognition
+streamlit==1.48.0
+tensorflow==2.19.0
+keras==3.11.2
+numpy==1.26.4
+gensim==4.3.3
+scikit-learn==1.6.1
+nltk==3.9.1
+SpeechRecognition==3.14.3
